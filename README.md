@@ -42,6 +42,15 @@ var graph = {
 
 ### Resultado
 
+Resultado de ordem correta de carregamento de todos os módulos do sistema. O calculo foi realizado com base na técnica de ordenação topológica.
+
+```
+Ordem correta de carregamento de todos os módulos do sistema: 7,6,4,2,1,5,3,0
+```
+
+<p align="center">
+  <img src="https://everguard.com.br/desafios/Resultado_Desafio1.png" width="600" title="Resultado Desafio 1" alt="Resultado Desafio 1">
+</p>
 
 
 
