@@ -29,7 +29,15 @@ $ node app.js
 ### Tabela de representação dos modules do sistema:
 
 ```
-modules = []
+var graph = {
+    '0': ['3'],
+    '1': ['2'],
+    '2': ['6'],
+    '3': ['5'],
+    '4': ['6'],
+    '5': ['6', '7'],
+    '6': ['7'],
+}
 ```
 
 ### Resultado
