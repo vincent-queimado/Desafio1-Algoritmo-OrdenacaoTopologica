@@ -8,7 +8,7 @@ A Figura 1 representa o grafo de dependência entre módulos de um sistema. A ar
 Implemente um algoritmo em NodeJS que retorne a ordem correta de carregamento de todos os módulos do sistema.
 
 <p align="center">
-  <img src="https://everguard.com.br/desafios/grafo_desafio1.png" width="600" title="hover text" alt="accessibility text">
+  <img src="https://everguard.com.br/desafios/grafo_desafio1.png" width="400" title="Figura1" alt="Figura1">
 </p>
 
 ### Requisitos
