@@ -1,0 +1,25 @@
+{
+  "name": "desafio1",
+  "version": "1.0.0",
+  "description": "Desafio 1 - Modules de sistema na ordem",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vincent-queimado"
+  },
+  "keywords": [
+    "Desafio",
+    "algoritmo",
+    "modules",
+    "sistema",
+    "ordem"
+  ],
+  "author": "Vincent Queimado",
+  "license": "ISC",
+  "dependencies": {
+    "dependency-solver": "^1.0.6"
+  }
+}
