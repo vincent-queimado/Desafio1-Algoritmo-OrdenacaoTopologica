@@ -26,7 +26,7 @@ Implemente um algoritmo em NodeJS que retorne a ordem correta de carregamento de
 $ node app.js
 ```
 
-### Tabela de representação dos modules do sistema:
+### Tabela de representação dos módulos do sistema:
 
 ```
 var graph = {

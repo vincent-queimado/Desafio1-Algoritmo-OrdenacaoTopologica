@@ -22,4 +22,4 @@ var graph = {
     '6': ['7'],
 }
 
-console.log(solve(graph));
+console.log("Ordem correta de carregamento de todos os módulos do sistema: " + solve(graph));
