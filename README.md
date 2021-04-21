@@ -1,8 +1,8 @@
 ![version](https://img.shields.io/badge/version-1.0.0-blue.svg?longCache=true&style=flat-square)
 
-# DESAFIO N°1 - Problema de Ordenação Topológica
+# Problema de Ordenação Topológica
 
-## Objetivo do desafio
+## Objetivo
 
 A Figura 1 representa o grafo de dependência entre módulos de um sistema. A aresta indica a relação de dependência entre dois módulos indicada pelo sentido, por exemplo: 1 2, indica que o módulo 1 é uma dependência do modulo 2 (ou o modulo 2 depende de 1), ou seja, para carregar o modulo 2 precisamos primeiro carregar o modulo 1.
 Implemente um algoritmo em NodeJS que retorne a ordem correta de carregamento de todos os módulos do sistema.
