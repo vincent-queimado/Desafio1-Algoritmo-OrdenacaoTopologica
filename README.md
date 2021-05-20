@@ -2,7 +2,7 @@
 
 # Ordenação Topológica
 
-## Objetivo
+## Sobre a Ordenação Topológica
 
 Agoritmo em NodeJS que retorne a ordem correta de carregamento de todos os módulos do sistema.
 
